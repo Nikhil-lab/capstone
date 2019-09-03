@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Moto g PLay",
+      "description": "Trending",
+      "manufacturer": "Moto",
+      "price": "200",
+      "quantity": "10"
+    },
+    {
+      "id": 2,
+      "name": "Samsung galaxy Y",
+      "description": "new model",
+      "manufacturer": "Smasung",
+      "price": "100",
+      "quantity": "20"
+    },
+    {
+      "name": "Probook",
+      "description": "laptop",
+      "manufacturer": "Hp",
+      "price": "50000",
+      "quantity": "3",
+      "id": 3
+    },
+    {
+      "name": "MacBook",
+      "description": "Laptop",
+      "manufacturer": "Apple",
+      "price": "100000",
+      "quantity": "5",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "description": "premium laptop..!",
+      "name": "MacBook pro",
+      "manufacturer": "Apple",
+      "price": "150000",
+      "quantity": "5"
+    }
+  ]
+}
